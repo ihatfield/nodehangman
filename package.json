@@ -1,0 +1,27 @@
+{
+  "name": "nodehangman"
+  "version": "1.0.0",
+  "description": "Hangman Game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihatfield/nodehangman.git"
+  },
+  "keywords": [
+    "Hangman"
+  ],
+  "author": "Isla Hatfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihatfield/nodehangman/issues
+  },
+  "homepage": "https://github.com/ihatfield/nodehangman.readme,
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}
